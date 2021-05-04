@@ -3,5 +3,5 @@
     $carros[1] = "BMW";
     $carros[2] = "Toyota";
 
-    printf($carros[1]. "é minha marca de carros preferida.");
+    printf($carros[0]. " é minha marca de carros preferida.");
 ?>
