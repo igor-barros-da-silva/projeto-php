@@ -1,9 +1,9 @@
 <?php
 
-    $idade[Marcos] = 30;
-    $idade[Pedro] = 35;
-    $idade[Tiago] = 40;
+    $idade['marcos'] = 30;
+    $idade['pedro'] = 35;
+    $idade['tiago'] = 40;
 
-    printf("A idade de Pedro é: ". $idade['Pedro']);
-    
+    printf("A idade de Marcos é: ". $idade['marcos']);
+
 ?>
