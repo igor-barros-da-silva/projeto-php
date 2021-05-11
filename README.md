@@ -27,7 +27,9 @@ git commit -m "versão 1.0"
 
 # 1.4 - Para enviar estas alterações ao seu repositório remoto:
 
-git push origin master
+git push origin master (branch master)
+ou
+git push origin main (branch main)
 
 # 1.5 - Para atualizar seu repositório local com a mais nova versão, execute:
 
