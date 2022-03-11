@@ -1,7 +1,3 @@
-# workspace2021-ipw4
-# internet-programacao-web-3tia-csvp
-- Respositório referente a turma do 3º TIA do Colégio São Vicente de Paula 
-
 # Configurando a conta Git
 
 - git config --global user.name "seu-nome"
